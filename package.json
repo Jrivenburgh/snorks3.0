@@ -1,13 +1,15 @@
 {
-  "name": "clicky-game",
+  "name": "snorks3.0",
   "version": "1.1.1",
   "private": true,
-  "homepage": "https://evanejtucker.github.io/clicky-game/",
+  "homepage": "https://github.com/Jrivenburgh/snorks3.0",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.0",
+    "mdbreact": "^4.8.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-responsive-carousel": "^3.1.45",
     "react-scripts": "1.1.5",
     "reactstrap": "^6.4.0"
   },
