@@ -1,10 +1,3 @@
-# Clicky Game
-
-a front end react app memory game!  Try and click all the characters without repeating yourself.
-try out the game here: 
-* [Clicky Game](https://evanejtucker.github.io/clicky-game/)
-
-![Demo](./public/assets/demoGif.gif)
 
 
 ## Prerequesites
@@ -16,9 +9,9 @@ try out the game here:
 
 1. Navigate to a project direcotry on your machine where you want to clone the repository
 2. run the command in the terminal:
-    * `git clone https://github.com/evanejtucker/clicky-game.git`
+    * `git clone https://github.com/jrivenburgh/snorks3.0.git`
 3. change directory into the newly cloned project:
-    * `cd clicky-game`
+    * `cd snorks3.0`
 4. install the node dependenices:
     * `npm install`
     * there are a few large packages in this project, dont be alarmed if the install takes a minute or two.
@@ -33,6 +26,7 @@ try out the game here:
 * [reactstrap](https://reactstrap.github.io/)
 
 ## Authors
-
-Evan E J Tucker
+Josh
+Joel
+Sergay
 
