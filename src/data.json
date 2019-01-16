@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/mario.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "assets/images/luigi.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "assets/images/peach.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "assets/images/yoshi.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bowser.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "assets/images/donkey-kong.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "assets/images/toad.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "assets/images/koopa-troopa.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "assets/images/daisy.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "assets/images/shy-guy.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "assets/images/wario.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "assets/images/waluigi.png",
+    "clicked": false
+  }
+]
