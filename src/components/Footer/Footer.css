@@ -1,6 +1,6 @@
-
+/* 
 .footer {
-    min-height: 80px;
+    min-height: 30px;
     width: 100%;
     background: red;
     box-shadow: 0 0 5px 1px darkslategrey;
@@ -8,22 +8,22 @@
     margin-top: 50px;
     margin: 0 auto;
     font-family: 'Chakra Petch', sans-serif;
-}
+} */
 
 .bottom {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     margin: 0 auto;
     width: 100%;
+    box-shadow: 0 0 5px 1px darkslategrey;
     min-height: 50px;
-    border-top: 5px solid rgb(236, 0, 0);
-    background: rgb(224, 0, 0);
+    background:rgb(17, 47, 69);
     text-align: center;
 }
 
 ul#footer-list {
     list-style-type: none;
-    padding: 0;
+    padding-top: 10px;
     margin: 0 auto;
     width: 100%;
     height: 100%;

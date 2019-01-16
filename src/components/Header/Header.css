@@ -1,8 +1,8 @@
 
 .header {
-    background: red;
+    background: rgb(17, 47, 69);
     width: 100%;
-    min-height: 80px;
+    min-height: 30px;
     color: ivory;
     position: fixed;
     top: 0;
@@ -29,10 +29,12 @@
 
 .title {
     font-family: 'Lobster', cursive;
+    float:left;
 }
 
-#score {
+.log {
     font-size: 1.2em;
+    float:right;
 }
 
 
